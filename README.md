@@ -1,4 +1,4 @@
 # swipify
-#### The official bot from the Swipfy Discord server.
+#### The official bot from the Swipify Discord server.
 ## Privacy Policy
 ## Terms of Service
